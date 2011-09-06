@@ -1,1 +1,2 @@
 first.c
+second msg
